@@ -31,13 +31,11 @@ A native macOS app that shows agent activity in the menu bar and notch and jumps
 
 ### Also building
 
-| | |
-|---|---|
-| **Orqara** | A control plane for agent systems that works with any runtime. The kernel owns tasks, approvals and lineage, and adapters run the work. |
-| **Orqara Guard** | A vulnerability analysis engine that runs as an MCP server, using OSV, CISA KEV and EPSS data. |
-| **Voxel Pirates** | A first-person co-op voxel pirate game in Godot 4. |
-| **NULLWALL** | A cyberpunk hacking RPG set against fully synthetic infrastructure. |
-| **JevTrade** | An AI-assisted market research workstation. It trades on paper first, and its risk gates stop trading when something fails. |
+- **Orqara** — A control plane for agent systems that works with any runtime. The kernel owns tasks, approvals and lineage, and adapters run the work.
+- **Orqara Guard** — A vulnerability analysis engine that runs as an MCP server, using OSV, CISA KEV and EPSS data.
+- **Voxel Pirates** — A first-person co-op voxel pirate game in Godot 4.
+- **NULLWALL** — A cyberpunk hacking RPG set against fully synthetic infrastructure.
+- **JevTrade** — An AI-assisted market research workstation. It trades on paper first, and its risk gates stop trading when something fails.
 
 ### 🧪 The lab
 
